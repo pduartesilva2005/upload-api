@@ -1,0 +1,10 @@
+# Dependencies
+node_modules
+yarn.lock
+
+# Database
+src/database/database.sqlite
+
+# Images
+uploads/*
+!uploads/.gitkeep
